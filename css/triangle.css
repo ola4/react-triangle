@@ -1,0 +1,29 @@
+fieldset{
+border: none;
+}
+
+.result img{
+	vertical-align: middle;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-container form{
+	width: 12em;
+	margin-bottom: 2em;
+}
+
+.flex-container > div{
+	margin-left: 10%;
+}
+
+.flex-container > div > div{
+	margin-top: 1em;
+}
+
+.flex-container form button{
+	float: right;
+}
